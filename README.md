@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="600" height="600" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/16b1326c-4652-4d84-917d-1fcb69db8c38" />
+<img width="200" height="200" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/16b1326c-4652-4d84-917d-1fcb69db8c38" />
 <!--
 **RubyDragoon7197/RubyDragoon7197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
