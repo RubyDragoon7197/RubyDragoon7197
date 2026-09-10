@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="600" height="600" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/16b1326c-4652-4d84-917d-1fcb69db8c38" />
 [![Insignia de Credly](https://images.credly.com/images/9a566d2b-f39c-4cd5-a344-59b5f3f5a5d9/image.png)](https://www.credly.com/badges/9a566d2b-f39c-4cd5-a344-59b5f3f5a5d9/public_url)
 <!--
 **RubyDragoon7197/RubyDragoon7197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
